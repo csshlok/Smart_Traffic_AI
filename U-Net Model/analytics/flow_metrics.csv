@@ -1,0 +1,1 @@
+frame_idx,frame_name,flow_mag_mean,flow_mag_median,motion_density,roi_area_px,queue_index,veh_count,ped_count,car,truck,bus,motorcycle,bicycle

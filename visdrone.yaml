@@ -1,0 +1,18 @@
+# Path to the folder that contains 'images/' and 'labels/' folders
+path: T:/data/datasets/visdrone/yolo
+
+# Subfolders for training and validation images
+train: images/train
+val: images/val
+
+# Class names (must match your label conversion mapping)
+names:
+  0: pedestrian
+  1: bicycle
+  2: car
+  3: van
+  4: truck
+  5: tricycle
+  6: awning-tricycle
+  7: bus
+  8: motor
